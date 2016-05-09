@@ -1,3 +1,3 @@
 # Network-Programming
 
-- SoftwareAssign1: Given a domain name/IP address this program displays all the IP's for the given host using DNS. This program also displays all the interfaces supporting the host.
+The folowing repository contains various java programs, c programs and scripts that demonstarte client server communication over the same network. I have done this using both TCP and UDP protocls for communication and file trnasfer.
